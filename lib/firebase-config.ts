@@ -3,13 +3,13 @@ import { getFirestore } from "firebase/firestore"
 
 // Hardcoded fallback configuration
 const fallbackConfig = {
-  apiKey: "AIzaSyAaYdIpV6DOONv45P8jEppEa6Sl1x11qYs",
-  authDomain: "computer-soln.firebaseapp.com",
-  projectId: "computer-soln",
-  storageBucket: "computer-soln.appspot.com",
-  messagingSenderId: "345218081400",
-  appId: "1:345218081400:web:2d1c0f9d149a90fd3a838d",
-  measurementId: "G-LFVGEHQFGD"
+  apiKey: "",
+  authDomain: "",
+  projectId: "",
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 }
 
 // Use environment variables if available, otherwise use fallback values
